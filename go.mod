@@ -37,4 +37,4 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
 
-replace github.com/sigstore/sigstore v1.1.1-0.20220217212907-e48ca03a5ba7 => github.com/chaospuppy/sigstore v1.1.2-0.20220223221447-aea694367359
+replace github.com/sigstore/sigstore v1.1.1-0.20220217212907-e48ca03a5ba7 => github.com/chaospuppy/sigstore local-testing
